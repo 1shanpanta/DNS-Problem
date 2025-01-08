@@ -1,4 +1,4 @@
-# Developer Internship Task Solution – I
+# Developer Internship Task Solution – Ishan Panta
 
 ## Task Overview
 
