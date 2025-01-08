@@ -28,7 +28,7 @@ After factoring and exploring different combinations, I arrived at this formula:
 
 ```
 
-3^(4 * (2 - 1)) * 5^2 = 2025 ( 81 * 25)
+3^(4 * 1) * 5^2 = 2025 ( 81 * 25)
 
 
 ```
@@ -37,17 +37,15 @@ After factoring and exploring different combinations, I arrived at this formula:
 
 Here’s the step-by-step breakdown of the formula:
 
-1. **Simplify the parentheses**:\[
-   (2 - 1) = 1
-   \]
-2. **Solve the exponents**:\[
-   4 * (2 - 1) = 4 * 1 = 4
-   \]\[
+
+1. **Solve the exponents**:\[
+   4 * 1 = 4
+   \] -> [
    3^4 = 81
-   \]\[
+   \] -> [
    5^2 = 25
    \]
-3. **Multiply the results**:
+2. **Multiply the results**:
    \[
    81 times 25 = 2025
    \]
